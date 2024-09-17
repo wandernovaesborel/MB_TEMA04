@@ -1,6 +1,4 @@
 # MB_TEMA04
-Relatórios
+Relatórios:
 
-Tarefas - Concluído
-Estoque - A fazer
-Viagens - A fazer
+Tarefas - Concluído / Estoque - A fazer / Viagens - A fazer
